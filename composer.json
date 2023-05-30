@@ -5,7 +5,7 @@
         "idez",
         "amplitude"
     ],
-    "homepage": "https://github.com/idez/amplitude",
+    "homepage": "https://github.com/idezdigital/laravel-amplitude",
     "license": "MIT",
     "type": "library",
     "authors": [
